@@ -1,0 +1,27 @@
+=meta: 0.0.2
+
+name: ByteBeat
+version: 0.0.1
+abstract: ByteBeat Evaluator for Perl
+homepage: https://metacpan.org/release/ByteBeat
+language: perl
+license: perl
+copyright: 2014
+
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  homepage: http://ingy.net
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+
+devel:
+  git: https://github.com/ingydotnet/bytebeat-pm
+  bug: https://github.com/ingydotnet/bytebeat-pm/issues
+  irc: irc.freenode.net#pkg
+
+requires:
+  perl: 5.8.1
+  Mo: 0
+  Pegex: 0

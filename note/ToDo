@@ -1,0 +1,4 @@
+Evaluator should have a play method that spawns a process for each expr in the
+expr-list.
+
+- Write a Bash/Readline single-line player
