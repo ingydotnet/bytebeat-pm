@@ -1,5 +1,5 @@
 package ByteBeat::Compiler;
-use Mo 'xxx';
+use Mo;
 use Pegex::Parser;
 use Pegex::Grammar;
 use ByteBeat::RPN;

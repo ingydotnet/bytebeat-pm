@@ -1,4 +1,9 @@
 ---
+version: 0.0.2
+date:    Wed Oct  8 22:33:30 CEST 2014
+changes:
+- Remove Mo::xxx dependency
+---
 version: 0.0.1
 date:    Mon Oct  6 14:44:47 CEST 2014
 changes:
