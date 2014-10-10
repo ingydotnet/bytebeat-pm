@@ -1,4 +1,9 @@
 ---
+version: 0.0.3
+date:    Fri Oct 10 11:52:30 CEST 2014
+changes:
+- Remove XXX-s :(
+---
 version: 0.0.2
 date:    Wed Oct  8 22:33:30 CEST 2014
 changes:

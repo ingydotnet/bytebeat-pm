@@ -1,5 +1,5 @@
 package ByteBeat;
-our $VERSION = '0.0.2';
+our $VERSION = '0.0.3';
 
 use Mo;
 use Getopt::Long;
@@ -15,7 +15,6 @@ my $debug = 0;
 my $shell = 0;
 my $play = 0;
 
-use XXX;
 sub run {
     my ($self) = shift;
     $self->get_options;
