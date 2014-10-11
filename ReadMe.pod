@@ -21,6 +21,9 @@ ByteBeat - ByteBeat Evaluator for Perl
 
 ByteBeat is L<https://www.noisebridge.net/bytebeat>.
 
+L<This>(L<http://canonical.org/~kragen/bytebeat/)> links to a lot more
+resources and discussion about bytebeat and its background.
+
 =head1 AUTHOR
 
 Ingy döt Net <ingy@cpan.org>
